@@ -12,7 +12,7 @@
 ### Jake Wharton
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=88)  
 
-就职于Square,Andriod大神(Android开发，必定认识此君).擅长Arndroid版本兼容，[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock),[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)都已经被收录到android库中。
+就职于Square,Andriod大神(Android开发，必定认识此君).擅长Android版本兼容，[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock),[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)都已经被收录到android库中。
 
 **masterpiece**:  
 [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) <br/>    [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)<br/>
