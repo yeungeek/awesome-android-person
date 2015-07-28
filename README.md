@@ -4,11 +4,16 @@
 > ---------------------------------------------- 论语·述而
 
 通过学习大神，发现更多。
-
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yeungeek/awesome-android-libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
-##Index
+
+排名不分先后
+##COM
 * [Jake Wharton](#jake-wharton)
 * [Chris Banes](#chris-banes)
+* [Sergey Tarasevich](#sergey-tarasevich)
+* [Koushik Dutta](#koushik_dutta)
+
+##CN
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
@@ -51,7 +56,7 @@ http://chris.banes.me/
 ### [Sergey Tarasevich](https://github.com/nostra13)
 ![](https://avatars3.githubusercontent.com/u/1223348?v=3&s=188)
 
-这位大神大家可能不熟悉，不过他的[UIL](https://github.com/nostra13/Android-Universal-Image-Loader)图片缓存和加载库再熟悉不过了。
+这位大神大家可能不熟悉，不过他的[UIL](https://github.com/nostra13/Android-Universal-Image-Loader)图片缓存和加载框架再熟悉不过了。
 目前这个库还是很活跃，一直在进步。
 
 **masterpiece**:  
@@ -59,6 +64,23 @@ http://chris.banes.me/
 
 **github or blog**:  
 https://github.com/nostra13
+
+### [Koushik Dutta](https://github.com/koush)
+![](https://avatars3.githubusercontent.com/u/73924?v=3&s=188)
+
+就职于ClockworkMod，这位大神也有个图片加载框架，还包含了异步网络请求,[ion](https://github.com/koush/ion)。
+>另外对https://github.com/CyanogenMod 的开源项目有很多贡献  
+>from https://github.com/Trinea/android-open-project
+
+**masterpiece**:  
+[ion](https://github.com/koush/ion) <br/>
+[AndroidAsync](https://github.com/koush/AndroidAsync) <br/>
+[UrlImageViewHelper](https://github.com/koush/UrlImageViewHelper) <br/>
+...
+
+**github or blog**:  
+https://github.com/koush  
+http://koush.com/
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
