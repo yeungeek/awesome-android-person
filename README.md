@@ -11,7 +11,8 @@
 * [Jake Wharton](#jake-wharton)
 * [Chris Banes](#chris-banes)
 * [Sergey Tarasevich](#sergey-tarasevich)
-* [Koushik Dutta](#koushik_dutta)
+* [Koushik Dutta](#koushik-dutta)
+* [Jeremy Feinstein](#jeremy_feinstein)
 
 ##CN
 
@@ -81,6 +82,20 @@ https://github.com/nostra13
 **github or blog**:  
 https://github.com/koush  
 http://koush.com/
+
+### [Jeremy Feinstein](https://github.com/jfeinstein10)
+[!](https://avatars0.githubusercontent.com/u/1269143?v=3&s=188)
+
+就职于Flatiron Health，最出名的就是他的[SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)。  
+
+**masterpiece**:  
+[SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) <br/>
+[JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) <br/>
+...
+
+**github or blog**:  
+https://github.com/jfeinstein10
+http://jeremyfeinstein.com
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
