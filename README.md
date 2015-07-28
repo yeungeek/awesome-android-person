@@ -84,7 +84,7 @@ https://github.com/koush
 http://koush.com/
 
 ### [Jeremy Feinstein](https://github.com/jfeinstein10)
-[!](https://avatars0.githubusercontent.com/u/1269143?v=3&s=188)
+![](https://avatars0.githubusercontent.com/u/1269143?v=3&s=188)
 
 就职于Flatiron Health，最出名的就是他的[SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)。  
 
@@ -94,7 +94,7 @@ http://koush.com/
 ...
 
 **github or blog**:  
-https://github.com/jfeinstein10
+https://github.com/jfeinstein10  
 http://jeremyfeinstein.com
 
 ## Reference
