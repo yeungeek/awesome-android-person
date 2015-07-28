@@ -1,4 +1,4 @@
-#Android个人开发者
+#Android大神
 介绍一群乐于分享，乐于开源，向往自由的android大神们。
 > 举一隅，不以三隅反，则不复也。<br>
 > ---------------------------------------------- 论语·述而
@@ -8,6 +8,7 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yeungeek/awesome-android-libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 ##Index
 * [Jake Wharton](#jake-wharton)
+* [Chris Banes](#chris-banes)
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
@@ -46,6 +47,18 @@ http://jakewharton.com/
 **github or blog**:  
 https://github.com/chrisbanes  
 http://chris.banes.me/
+
+### [Sergey Tarasevich](https://github.com/nostra13)
+![](https://avatars3.githubusercontent.com/u/1223348?v=3&s=188)
+
+这位大神大家可能不熟悉，不过他的[UIL](https://github.com/nostra13/Android-Universal-Image-Loader)图片缓存和加载库再熟悉不过了。
+目前这个库还是很活跃，一直在进步。
+
+**masterpiece**:  
+[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) <br/>
+
+**github or blog**:  
+https://github.com/nostra13
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
