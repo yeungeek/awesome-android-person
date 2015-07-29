@@ -34,9 +34,8 @@
 ...
 
 **github or blog**:  
-[![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)  
-* https://github.com/JakeWharton
-* http://jakewharton.com
+[![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)   [![](art/github.png)](https://github.com/JakeWharton) 
+[![](art/web.png)](http://jakewharton.com)
 
 ### [Chris Banes](https://github.com/chrisbanes)
 ![](https://avatars1.githubusercontent.com/u/227486?v=3&s=188)  
