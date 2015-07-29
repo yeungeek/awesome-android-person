@@ -22,18 +22,19 @@
 就职于Square,Andriod大神(Android开发，必定认识此君).擅长Android版本兼容，[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock),[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)都已经被收录到android库中。而且参与了很多其他开源项目，非常活跃。
 
 **masterpiece**:  
-[ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) <br/>    [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)<br/>
-[ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)<br/>
-[butterknife](https://github.com/JakeWharton/butterknife)<br/>
-[DiskLruCache](https://github.com/JakeWharton/DiskLruCache)<br/>
-[u2020](https://github.com/JakeWharton/u2020)<br/>
-[RxBinding](https://github.com/JakeWharton/RxBinding)<br/>
-[pidcat](https://github.com/JakeWharton/pidcat)<br/>
+* [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) <br/>
+* [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)<br/>
+* [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)<br/>
+* [butterknife](https://github.com/JakeWharton/butterknife)<br/>
+* [DiskLruCache](https://github.com/JakeWharton/DiskLruCache)<br/>
+* [u2020](https://github.com/JakeWharton/u2020)<br/>
+* [RxBinding](https://github.com/JakeWharton/RxBinding)<br/>
+* [pidcat](https://github.com/JakeWharton/pidcat)<br/>
 ...
 
 **github or blog**:  
-https://github.com/JakeWharton  
-http://jakewharton.com/
+* https://github.com/JakeWharton  
+* http://jakewharton.com/
 
 ### [Chris Banes](https://github.com/chrisbanes)
 ![](https://avatars1.githubusercontent.com/u/227486?v=3&s=188)  
@@ -41,18 +42,18 @@ http://jakewharton.com/
 目前就职于Google,和Jake Wharton遥相呼应，对开源项目贡献也很多。很多项目都是精品，并且紧跟潮流，[cheesesquare](https://github.com/chrisbanes/cheesesquare)就是Android Design library最新的demo.
 
 **masterpiece**:  
-[Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) <br/>
-[ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) <br/>
-[PhotoView](https://github.com/chrisbanes/PhotoView) <br/>
-[cheesesquare](https://github.com/chrisbanes/cheesesquare) <br/>
-[philm](https://github.com/chrisbanes/philm) <br/>
-[gradle-mvn-push](https://github.com/chrisbanes/gradle-mvn-push) <br/>
-[photup](https://github.com/chrisbanes/photup) <br/>
+* [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) <br/>
+* [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) <br/>
+* [PhotoView](https://github.com/chrisbanes/PhotoView) <br/>
+* [cheesesquare](https://github.com/chrisbanes/cheesesquare) <br/>
+* [philm](https://github.com/chrisbanes/philm) <br/>
+* [gradle-mvn-push](https://github.com/chrisbanes/gradle-mvn-push) <br/>
+* [photup](https://github.com/chrisbanes/photup) <br/>
 ...
 
 **github or blog**:  
-https://github.com/chrisbanes  
-http://chris.banes.me/
+* https://github.com/chrisbanes  
+* http://chris.banes.me/
 
 ### [Sergey Tarasevich](https://github.com/nostra13)
 ![](https://avatars3.githubusercontent.com/u/1223348?v=3&s=188)
@@ -61,10 +62,10 @@ http://chris.banes.me/
 目前这个库还是很活跃，一直在进步。
 
 **masterpiece**:  
-[Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) <br/>
+* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) <br/>
 
 **github or blog**:  
-https://github.com/nostra13
+* https://github.com/nostra13
 
 ### [Koushik Dutta](https://github.com/koush)
 ![](https://avatars3.githubusercontent.com/u/73924?v=3&s=188)
@@ -74,14 +75,14 @@ https://github.com/nostra13
 >from https://github.com/Trinea/android-open-project
 
 **masterpiece**:  
-[ion](https://github.com/koush/ion) <br/>
-[AndroidAsync](https://github.com/koush/AndroidAsync) <br/>
-[UrlImageViewHelper](https://github.com/koush/UrlImageViewHelper) <br/>
+* [ion](https://github.com/koush/ion) <br/>
+* [AndroidAsync](https://github.com/koush/AndroidAsync) <br/>
+* [UrlImageViewHelper](https://github.com/koush/UrlImageViewHelper) <br/>
 ...
 
 **github or blog**:  
-https://github.com/koush  
-http://koush.com/
+* https://github.com/koush  
+* http://koush.com/
 
 ### [Jeremy Feinstein](https://github.com/jfeinstein10)
 ![](https://avatars0.githubusercontent.com/u/1269143?v=3&s=188)
@@ -89,13 +90,13 @@ http://koush.com/
 就职于Flatiron Health，最出名的就是他的[SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)。  
 
 **masterpiece**:  
-[SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) <br/>
-[JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) <br/>
+* [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu) <br/>
+* [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) <br/>
 ...
 
 **github or blog**:  
-https://github.com/jfeinstein10  
-http://jeremyfeinstein.com
+* https://github.com/jfeinstein10  
+* http://jeremyfeinstein.com
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
