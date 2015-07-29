@@ -34,7 +34,7 @@
 ...
 
 **github or blog**:  
-* [![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)
+[![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)  
 * https://github.com/JakeWharton
 * http://jakewharton.com
 
