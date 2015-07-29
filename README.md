@@ -33,8 +33,8 @@
 * [pidcat](https://github.com/JakeWharton/pidcat)<br/>
 ...
 
-**github or blog**:  
-[![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)   [![](art/github.png)](https://github.com/JakeWharton) 
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)   [![](art/github.png)](https://github.com/JakeWharton)
 [![](art/web.png)](http://jakewharton.com)
 
 ### [Chris Banes](https://github.com/chrisbanes)
@@ -52,9 +52,10 @@
 * [photup](https://github.com/chrisbanes/photup) <br/>
 ...
 
-**github or blog**:  
-* https://github.com/chrisbanes  
-* http://chris.banes.me/
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+ChrisBanes)   [![](art/github.png)](https://github.com/chrisbanes)
+[![](art/web.png)](http://chris.banes.me/)
+
 
 ### [Sergey Tarasevich](https://github.com/nostra13)
 ![](https://avatars3.githubusercontent.com/u/1223348?v=3&s=188)
@@ -65,8 +66,8 @@
 **masterpiece**:  
 * [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) <br/>
 
-**github or blog**:  
-* https://github.com/nostra13
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+SergeyTarasevich)   [![](art/github.png)](https://github.com/nostra13)
 
 ### [Koushik Dutta](https://github.com/koush)
 ![](https://avatars3.githubusercontent.com/u/73924?v=3&s=188)
@@ -81,9 +82,9 @@
 * [UrlImageViewHelper](https://github.com/koush/UrlImageViewHelper) <br/>
 ...
 
-**github or blog**:  
-* https://github.com/koush  
-* http://koush.com/
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/110558071969009568835)   [![](art/github.png)](https://github.com/koush)
+[![](art/web.png)](http://koush.com/)
 
 ### [Jeremy Feinstein](https://github.com/jfeinstein10)
 ![](https://avatars0.githubusercontent.com/u/1269143?v=3&s=188)
@@ -95,14 +96,19 @@
 * [JazzyViewPager](https://github.com/jfeinstein10/JazzyViewPager) <br/>
 ...
 
-**github or blog**:  
-* https://github.com/jfeinstein10  
-* http://jeremyfeinstein.com
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+JeremyFeinstein)   [![](art/github.png)](https://github.com/jfeinstein10 )
+[![](art/web.png)](http://jeremyfeinstein.com)
 
 ### [Simon Vig](https://github.com/SimonVT)
 ![](https://avatars1.githubusercontent.com/u/549365?v=3&s=188)
 
+**masterpiece**:  
+...
 
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/+SimonVigTherkildsen)   [![](art/github.png)](https://github.com/jfeinstein10 )
+[![](art/web.png)](http://jeremyfeinstein.com)
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
