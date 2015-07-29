@@ -14,6 +14,7 @@
 * [Sergey Tarasevich](#sergey-tarasevich)
 * [Koushik Dutta](#koushik-dutta)
 * [Jeremy Feinstein](#jeremy_feinstein)
+* [Simon Vig](#simon_vig)
 
 ##CN
 
@@ -97,18 +98,53 @@
 ...
 
 **contact**:  
-[![](art/google_plus.png)](https://plus.google.com/u/0/+JeremyFeinstein)   [![](art/github.png)](https://github.com/jfeinstein10 )
+[![](art/google_plus.png)](https://plus.google.com/u/0/+JeremyFeinstein)   [![](art/github.png)](https://github.com/jfeinstein10)
 [![](art/web.png)](http://jeremyfeinstein.com)
 
 ### [Simon Vig](https://github.com/SimonVT)
 ![](https://avatars1.githubusercontent.com/u/549365?v=3&s=188)
 
 **masterpiece**:  
+* [android-menudrawer](https://github.com/SimonVT/android-menudrawer)
+* [MessageBar](https://github.com/SimonVT/MessageBar)
 ...
 
 **contact**:  
-[![](art/google_plus.png)](https://plus.google.com/+SimonVigTherkildsen)   [![](art/github.png)](https://github.com/jfeinstein10 )
-[![](art/web.png)](http://jeremyfeinstein.com)
+[![](art/google_plus.png)](https://plus.google.com/+SimonVigTherkildsen)   [![](art/github.png)](https://github.com/SimonVT)
+[![](art/web.png)](http://simonvt.net/)
+
+### [James Smith](https://github.com/loopj)
+![](https://avatars3.githubusercontent.com/u/104009?v=3&s=188)
+
+就职于Bugsnag，[android-async-http](https://github.com/loopj/android-async-http)这个异步网络框架，是我第一次接触到的网络框架。
+> I'm the co-founder of Bugsnag, a popular real-time crash detection service for mobile and web applications, with Simon Maynard. I previously led the product team as CTO of Heyzap, helping scale the company to over 8 million users.  
+from http://loopj.com/
+
+**masterpiece**:  
+* [android-async-http](https://github.com/loopj/android-async-http)
+* [android-smart-image-view](https://github.com/loopj/android-smart-image-view)
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/loopj)
+[![](art/web.png)](http://loopj.com/)
+
+### [Roman Nurik](https://github.com/romannurik)
+![](https://avatars2.githubusercontent.com/u/100155?v=3&s=188)
+
+就职于google，其中[muzei](https://github.com/romannurik/muzei)是一款非常棒的Android动态壁纸应用.  
+对其他的开源项目贡献也很多，尤其是[iosched](https://github.com/google/iosched)
+
+**masterpiece**:  
+* [muzei](https://github.com/romannurik/muzei)
+* [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
+* [Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
+* [Android-WizardPager](https://github.com/romannurik/Android-WizardPager)
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/+RomanNurik)   [![](art/github.png)](https://github.com/romannurik)
+[![](art/web.png)](http://roman.nurik.net/)
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
