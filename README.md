@@ -1,20 +1,23 @@
 #Android大神
-受[Trinea](https://github.com/Trinea)的开源项目的启发和参考，也准备列一列Android圈里的大神们。  
-介绍一群乐于分享，乐于开源，向往自由的android大神们。
+受[Trinea](https://github.com/Trinea)的开源项目的启发和参考，也准备列一列Android圈里的大神们。
+介绍一群乐于分享，乐于开源，向往自由的android大神们。还有乐于开源的一些组织。  
 > 举一隅，不以三隅反，则不复也。<br>
 > ---------------------------------------------- 论语·述而
 
-通过学习大神，发现更多。
+通过学习大神，发现更多。  
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yeungeek/awesome-android-libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 
 排名不分先后
+##ORG
 ##COM
 * [Jake Wharton](#jake-wharton)
 * [Chris Banes](#chris-banes)
 * [Sergey Tarasevich](#sergey-tarasevich)
 * [Koushik Dutta](#koushik-dutta)
 * [Jeremy Feinstein](#jeremy_feinstein)
-* [Simon Vig](#simon_vig)
+* [Simon Vig](#simon-vig)
+* [James Smith](#james-smith)
+* [Roman Nurik](#roman-nurik)
 
 ##CN
 
@@ -139,12 +142,60 @@ from http://loopj.com/
 * [muzei](https://github.com/romannurik/muzei)
 * [AndroidAssetStudio](https://github.com/romannurik/AndroidAssetStudio)
 * [Android-SwipeToDismiss](https://github.com/romannurik/Android-SwipeToDismiss)
-* [Android-WizardPager](https://github.com/romannurik/Android-WizardPager)
+* [Android-WizardPager](https://github.com/romannurik/Android-WizardPager)  
 ...
 
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/+RomanNurik)   [![](art/github.png)](https://github.com/romannurik)
 [![](art/web.png)](http://roman.nurik.net/)
+
+### [Romain Guy](https://github.com/romainguy)
+![](https://avatars0.githubusercontent.com/u/869684?v=3&s=188)
+
+就职于Google，爱好摄影。
+> I work at Google on an unannounced project. I previously spent 7 years working as an Android Software Engineer, primarily focusing on anything graphics and animations related.  
+from [plus](https://plus.google.com/+RomainGuy)
+
+**masterpiece**:  
+* [google-io-2014](https://github.com/romainguy/google-io-2014)
+* [ViewServer](https://github.com/romainguy/ViewServer)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/+RomainGuy)   [![](art/github.png)](https://github.com/romainguy)
+[![](art/web.png)](http://www.curious-creature.com/)
+
+### [ManuelPeinado](https://github.com/ManuelPeinado)
+![](https://avatars2.githubusercontent.com/u/2700015?v=3&s=188)
+
+**masterpiece**:  
+* [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar)
+* [GlassActionBar](https://github.com/ManuelPeinado/GlassActionBar)  
+* [MultiChoiceAdapter](https://github.com/ManuelPeinado/MultiChoiceAdapter)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/106514622630861903655)   [![](art/github.png)](https://github.com/ManuelPeinado)
+
+
+### [Emil Sjölander](https://github.com/emilsjolander)
+![](https://avatars1.githubusercontent.com/u/1525924?v=3&s=188)
+
+就职于Flipboard
+> I'm Emil , a 20 year old developer and up and comming interaction designer. I focus mostly on mobile design and development but like to try new things!  
+from [plus](https://plus.google.com/u/0/+emilsjolander/)
+
+**masterpiece**:  
+* [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders)
+* [sprinkles](https://github.com/emilsjolander/sprinkles)  
+* [StickyScrollViewItems](https://github.com/emilsjolander/StickyScrollViewItems)  
+* [android-FlipView](https://github.com/emilsjolander/android-FlipView)  
+* [IntentBuilder](https://github.com/emilsjolander/IntentBuilder)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+emilsjolander)   [![](art/github.png)](https://github.com/emilsjolander)
+[![](art/web.png)](http://emilsjolander.se/)
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
