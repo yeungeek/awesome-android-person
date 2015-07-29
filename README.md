@@ -1,4 +1,5 @@
 #Android大神
+受[Trinea](https://github.com/Trinea)的开源项目的启发和参考，也准备列一列Android圈里的大神们。  
 介绍一群乐于分享，乐于开源，向往自由的android大神们。
 > 举一隅，不以三隅反，则不复也。<br>
 > ---------------------------------------------- 论语·述而
@@ -33,8 +34,9 @@
 ...
 
 **github or blog**:  
-* https://github.com/JakeWharton  
-* http://jakewharton.com/
+* [![](art/google_plus.png)](https://plus.google.com/u/0/+JakeWharton)
+* https://github.com/JakeWharton
+* http://jakewharton.com
 
 ### [Chris Banes](https://github.com/chrisbanes)
 ![](https://avatars1.githubusercontent.com/u/227486?v=3&s=188)  
@@ -97,6 +99,11 @@
 **github or blog**:  
 * https://github.com/jfeinstein10  
 * http://jeremyfeinstein.com
+
+### [Simon Vig](https://github.com/SimonVT)
+![](https://avatars1.githubusercontent.com/u/549365?v=3&s=188)
+
+
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
