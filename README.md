@@ -12,13 +12,16 @@
 ##COM
 * [Jake Wharton](#jake-wharton)
 * [Chris Banes](#chris-banes)
+* [Mark Murphy](#mark-murphy)
 * [Sergey Tarasevich](#sergey-tarasevich)
 * [Koushik Dutta](#koushik-dutta)
 * [Jeremy Feinstein](#jeremy_feinstein)
 * [Simon Vig](#simon-vig)
 * [James Smith](#james-smith)
 * [Roman Nurik](#roman-nurik)
-
+* [Romain Guy](#romain-guy)
+* [ManuelPeinado](#manuelpeinado)
+* [Emil Sjölander](#emil-sjölander)
 ##CN
 
 ### [Jake Wharton](https://github.com/JakeWharton)
@@ -60,6 +63,21 @@
 [![](art/google_plus.png)](https://plus.google.com/u/0/+ChrisBanes)   [![](art/github.png)](https://github.com/chrisbanes)
 [![](art/web.png)](http://chris.banes.me/)
 
+### [Mark Murphy](https://github.com/commonsguy)
+![](https://avatars0.githubusercontent.com/u/103772?v=3&s=188)
+
+与前两位相比，Mark Murphy则是专注于写了一本[The Busy Coder's Guide to Android Development](https://commonsware.com/Android/),全面介绍了Android.而且在开源项目也贡献很多。
+
+**masterpiece**:  
+* [cw-omnibus](https://github.com/commonsguy/cw-omnibus)
+* [cw-advandroid](https://github.com/commonsguy/cw-advandroid)  
+* [cw-android](https://github.com/commonsguy/cw-android)  
+* [cwac-camera](https://github.com/commonsguy/cwac-camera)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/114205433913370454414)   [![](art/github.png)](https://github.com/commonsguy)
+[![](art/web.png)](http://commonsware.com/)
 
 ### [Sergey Tarasevich](https://github.com/nostra13)
 ![](https://avatars3.githubusercontent.com/u/1223348?v=3&s=188)
@@ -68,7 +86,7 @@
 目前这个库还是很活跃，一直在进步。
 
 **masterpiece**:  
-* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader) <br/>
+* [Android-Universal-Image-Loader](https://github.com/nostra13/Android-Universal-Image-Loader)
 
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/u/0/+SergeyTarasevich)   [![](art/github.png)](https://github.com/nostra13)
