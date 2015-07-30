@@ -197,6 +197,33 @@ from [plus](https://plus.google.com/u/0/+emilsjolander/)
 [![](art/google_plus.png)](https://plus.google.com/u/0/+emilsjolander)   [![](art/github.png)](https://github.com/emilsjolander)
 [![](art/web.png)](http://emilsjolander.se/)
 
+### [Daniel Lew](https://github.com/dlew)
+![](https://avatars0.githubusercontent.com/u/514850?v=3&s=188)
+
+在Android使用技巧有一个系列文章,[android-tips](http://blog.danlew.net/2014/03/30/android-tips-round-up-part-1/)，比较实用。
+
+**masterpiece**:  
+* [joda-time-android](https://github.com/dlew/joda-time-android)
+* [android-gridlayout](https://github.com/dlew/android-gridlayout)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/dlew)
+[![](art/web.png)](http://danlew.net/)
+
+### [Vladislav Bauer](https://github.com/vbauer)
+![](https://avatars1.githubusercontent.com/u/578021?v=3&s=188)
+
+vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)网站,收集了各种android库。
+
+**masterpiece**:  
+* [android-arsenal.com](https://github.com/vbauer/android-arsenal.com)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+VladislavBauer)
+[![](art/github.png)](https://github.com/vbauer)
+
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
 *  [android dev cn](https://github.com/android-cn/android-dev-cn)
