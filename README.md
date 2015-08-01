@@ -22,6 +22,8 @@
 * [Romain Guy](#romain-guy)
 * [ManuelPeinado](#manuelpeinado)
 * [Emil Sjölander](#emil-sjölander)
+* [Daniel Lew](#daniel-lew)
+* [Vladislav Bauer](#vladislav-bauer)
 
 ##CN
 
