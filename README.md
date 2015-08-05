@@ -12,6 +12,8 @@
 * [Google](#google)
 * [Facebook](#facebook)
 * [Square](#square)
+* [Square](#square)
+* [Square](#square)
 
 ##COM
 * [Jake Wharton](#jake-wharton)
@@ -269,3 +271,4 @@ vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)�
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
 *  [android dev cn](https://github.com/android-cn/android-dev-cn)
 *  [android dev com](https://github.com/android-cn/android-dev-com)
+*  [Android Dev Bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks)
