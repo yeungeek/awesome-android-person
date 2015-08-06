@@ -12,8 +12,8 @@
 * [Google](#google)
 * [Facebook](#facebook)
 * [Square](#square)
-* [Square](#square)
-* [Square](#square)
+* [Yalantis](#yalantis)
+* [Alibaba](#alibaba)
 
 ##COM
 * [Jake Wharton](#jake-wharton)
@@ -40,14 +40,33 @@ google在github上面开源了很多android库应用，尤其是[googleSamples](
 
 **masterpiece**:  
 * [iosched](https://github.com/google/iosched)
-* [ExoPlayer](https://github.com/google/ExoPlayer)
-* [android-topeka](https://github.com/googlesamples/android-topeka)
+* [ExoPlayer](https://github.com/google/ExoPlayer)  
 * [android-topeka](https://github.com/googlesamples/android-topeka)  
 ...
 
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/+AndroidDevelopers)   [![](art/github.png)](https://github.com/google)
 [![](art/web.png)](http://developer.android.com/)
+
+### [Facebook](https://github.com/facebook)
+![](https://avatars0.githubusercontent.com/u/69631?v=3&s=188)  
+
+开源上怎么能少Facebook，至于为什么开源-[Facebook开源的真正原因](http://www.infoq.com/cn/news/2015/07/Facebook-LAMP?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
+先看看android上开源项目：  
+[![](art/facebook_open_source.png)](https://code.facebook.com/android/)
+
+**masterpiece**:  
+* [fresco](https://github.com/facebook/fresco)
+* [buck](https://github.com/facebook/buck)
+* [Augmented Traffic Control](https://github.com/facebook/augmented-traffic-control)
+* [rebound](https://github.com/facebook/rebound)  
+* [Bolts-Android](https://github.com/BoltsFramework/Bolts-Android)  
+* [conceal](https://github.com/facebook/conceal)  
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/+FacebookUS)   [![](art/github.png)](https://github.com/facebook)
+[![](art/web.png)](https://code.facebook.com)
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
