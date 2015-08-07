@@ -70,7 +70,7 @@ google在github上面开源了很多android库应用，尤其是[googleSamples](
 [![](art/web.png)](https://code.facebook.com)
 
 ### [Square](https://github.com/square)
-
+![](https://avatars2.githubusercontent.com/u/82592?v=3&s=188)  
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
