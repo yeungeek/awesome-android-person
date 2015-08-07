@@ -51,7 +51,7 @@ google在github上面开源了很多android库应用，尤其是[googleSamples](
 ### [Facebook](https://github.com/facebook)
 ![](https://avatars0.githubusercontent.com/u/69631?v=3&s=188)  
 
-开源上怎么能少Facebook，至于为什么开源-[Facebook开源的真正原因](http://www.infoq.com/cn/news/2015/07/Facebook-LAMP?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)   
+开源上怎么能少Facebook，至于为什么开源-[Facebook开源的真正原因](http://www.infoq.com/cn/news/2015/07/Facebook-LAMP?utm_source=infoq&utm_medium=popular_widget&utm_campaign=popular_content_list&utm_content=homepage)
 先看看android上开源项目：  
 
 [![](art/facebook_open_source.png)](https://code.facebook.com/android/)
@@ -68,6 +68,9 @@ google在github上面开源了很多android库应用，尤其是[googleSamples](
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/u/0/+FacebookUS)   [![](art/github.png)](https://github.com/facebook)
 [![](art/web.png)](https://code.facebook.com)
+
+### [Square](https://github.com/square)
+
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
