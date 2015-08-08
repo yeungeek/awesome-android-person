@@ -125,7 +125,7 @@ Yalantis提供了很多超级酷炫的动画库。
 [![](art/web.png)](http://code.taobao.org/)
 
 
-<a href="#org" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/>d</a>
+<a href="#org" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
@@ -344,6 +344,12 @@ vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)�
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/u/0/+VladislavBauer)
 [![](art/github.png)](https://github.com/vbauer)
+
+<a href="#com" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
+
+### [lao](https://github.com/vbauer)
+
+<a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
 ## Reference
 *  [Trinea android-open-project](https://github.com/Trinea/android-open-project)
