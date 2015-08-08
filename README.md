@@ -124,7 +124,8 @@ Yalantis提供了很多超级酷炫的动画库。
 [![](art/github.png)](https://github.com/alibaba)
 [![](art/web.png)](http://code.taobao.org/)
 
-<a href="#org" title="返回目录" style="width:100%"><img src="art/ic_arrow.png" align="right"/></a>
+
+<a href="#org" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/>d</a>
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
