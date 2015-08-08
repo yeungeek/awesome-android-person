@@ -72,6 +72,43 @@ google在github上面开源了很多android库应用，尤其是[googleSamples](
 ### [Square](https://github.com/square)
 ![](https://avatars2.githubusercontent.com/u/82592?v=3&s=188)  
 
+真的业界良心，开源了很多非常实用的项目。  
+
+**masterpiece**:  
+* [okhttp](https://github.com/square/okhttp)
+* [retrofit](https://github.com/square/retrofit)
+* [dagger](https://github.com/square/dagger)
+* [picasso](https://github.com/square/picasso)
+* [retrofit](https://github.com/square/retrofit)
+* [otto](https://github.com/square/otto)
+* [wire](https://github.com/square/wire)
+* [spoon](https://github.com/square/spoon)
+...  
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/+square)   [![](art/github.png)](https://github.com/square)
+[![](art/web.png)](http://square.github.io/)
+
+### [Yalantis](https://github.com/Yalantis)
+![](https://avatars0.githubusercontent.com/u/752338?v=3&s=188)  
+
+Yalantis提供了很多超级酷炫的动画库。
+
+**masterpiece**:  
+* [Context-Menu.Android](https://github.com/Yalantis/Context-Menu.Android)
+* [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android)
+* [Phoenix](https://github.com/Yalantis/Phoenix)
+* [Taurus](https://github.com/Yalantis/Taurus)
+* [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco)
+* [CameraModule](https://github.com/Yalantis/CameraModule)
+* [Euclid](https://github.com/Yalantis/Euclid)
+* [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android)
+...
+
+**contact**:  
+[![](art/google_plus.png)](https://plus.google.com/u/0/104899718426548341601)   [![](art/github.png)](https://github.com/Yalantis)
+[![](art/web.png)](https://yalantis.com/)
+
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
 
