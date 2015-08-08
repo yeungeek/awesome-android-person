@@ -102,12 +102,27 @@ Yalantis提供了很多超级酷炫的动画库。
 * [FlipViewPager.Draco](https://github.com/Yalantis/FlipViewPager.Draco)
 * [CameraModule](https://github.com/Yalantis/CameraModule)
 * [Euclid](https://github.com/Yalantis/Euclid)
-* [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android)
+* [GuillotineMenu-Android](https://github.com/Yalantis/GuillotineMenu-Android)  
 ...
 
 **contact**:  
 [![](art/google_plus.png)](https://plus.google.com/u/0/104899718426548341601)   [![](art/github.png)](https://github.com/Yalantis)
 [![](art/web.png)](https://yalantis.com/)
+
+### [Alibaba](https://github.com/alibaba)
+![](https://avatars1.githubusercontent.com/u/1961952?v=3&s=188)  
+
+阿里集团的开源，在国内是顶尖的。之所以是集团，是包含了旗下的开源组织，[taobao](https://github.com/taobao),[etao-open-source](https://github.com/etao-open-source)
+
+**masterpiece**:  
+* [fastjson](https://github.com/alibaba/fastjson)
+* [dexposed](https://github.com/alibaba/dexposed)
+* [cube-sdk](https://github.com/etao-open-source/cube-sdk)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/alibaba)
+[![](art/web.png)](http://code.taobao.org/)
 
 ### [Jake Wharton](https://github.com/JakeWharton)
 ![](https://avatars0.githubusercontent.com/u/66577?v=3&s=188)  
