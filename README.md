@@ -347,7 +347,17 @@ vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)�
 
 <a href="#com" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
-### [lao](https://github.com/vbauer)
+国内的Android大神，与国外的大神风格有很多不同，很多有名的在github找不到对应的。  
+目前很多都比较专注在csdn，cnblogs等一些博客上。
+
+### [罗升阳](http://blog.csdn.net/Luoshengyang)
+
+[老罗的android之旅](http://blog.csdn.net/Luoshengyangg)，自从在csdn上发表，关注度非常高。  
+并有相关书籍发布[Android系统源代码情景分析](http://wenku.it168.com/d_000574719.shtml)，专注于Android源码分析。
+
+**contact**:  
+[![](art/weibo.png)](http://weibo.com/shengyangluo)
+[![](art/web.png)](http://danlew.net/)
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
