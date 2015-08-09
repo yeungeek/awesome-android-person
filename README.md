@@ -32,6 +32,7 @@
 * [Vladislav Bauer](#vladislav-bauer)
 
 ##CN
+* [罗升阳](#罗升阳)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
