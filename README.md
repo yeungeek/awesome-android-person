@@ -360,6 +360,15 @@ vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)�
 [![](art/weibo.png)](http://weibo.com/shengyangluo)
 [![](art/web.png)](http://danlew.net/)
 
+### [邓凡平](http://blog.csdn.net/innost)
+![](http://cms.csdnimg.cn/article/201305/08/5189ab4a2eaaa.jpg)
+
+资深Android开发工程师，热衷于Android源代码的研究，对Android的架构设计和实现原理有非常深刻的认识和理解。  
+这是在[专访邓凡平：Android开发路上的快速学习之道](http://www.csdn.net/article/1970-01-01/2815118)中的描述。
+
+**contact**:  
+[![](art/web.png)](https://xitu.io/231)
+
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
 ## Reference
