@@ -34,6 +34,10 @@
 ##CN
 * [罗升阳](#罗升阳)
 * [邓凡平](#邓凡平)
+* [Trinea](#trinea)
+* [魏祝林](#魏祝林)
+* [halzhang](#halzhang)
+* [daimajia](#daimajia)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
@@ -411,7 +415,26 @@ Trinea大神，目前就职于快的，专注于android性能优化和开源项�
 [![](art/weibo.png)](http://weibo.com/halzhang)
 [![](art/web.png)](http://www.cnblogs.com/halzhang)
 
+### [daimajia](https://github.com/daimajia)
+![](https://avatars3.githubusercontent.com/u/2503423?v=3&s=188)
 
+> 一个绝对优秀的程序员，在 Github 上 Android 国内第一人。  
+现为稀土项目的联合创始人  
+----------------------- from [xitu](https://xitu.io/2)
+
+**masterpiece**:  
+* [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)
+* [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)  
+* [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider)
+* [NumberProgressBar](https://github.com/daimajia/NumberProgressBar)
+* [AndroidViewHover](https://github.com/daimajia/AndroidViewHover)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/daimajia)
+[![](art/weibo.png)](http://weibo.com/daimajia)
+[![](art/xitu.png)](https://xitu.io/2)
+[![](art/web.png)](http://blog.daimajia.com/)
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
