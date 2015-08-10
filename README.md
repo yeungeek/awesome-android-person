@@ -33,6 +33,7 @@
 
 ##CN
 * [罗升阳](#罗升阳)
+* [邓凡平](#邓凡平)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
@@ -361,13 +362,56 @@ vbauer最著名的就是创建了[android-arsenal](http://android-arsenal.com)�
 [![](art/web.png)](http://danlew.net/)
 
 ### [邓凡平](http://blog.csdn.net/innost)
-![](http://cms.csdnimg.cn/article/201305/08/5189ab4a2eaaa.jpg)
 
 资深Android开发工程师，热衷于Android源代码的研究，对Android的架构设计和实现原理有非常深刻的认识和理解。  
 这是在[专访邓凡平：Android开发路上的快速学习之道](http://www.csdn.net/article/1970-01-01/2815118)中的描述。
 
 **contact**:  
 [![](art/web.png)](https://xitu.io/231)
+
+### [Trinea](https://github.com/trinea)
+
+Trinea大神，目前就职于快的，专注于android性能优化和开源项目。  
+其中[android-open-project](https://github.com/Trinea/android-open-project)和[codekk源码分析](http://codekk.com/open-source-project-analysis)得到了很多人的认可。
+
+**masterpiece**:  
+* [android-open-project](https://github.com/Trinea/android-open-project)
+* [android-common](https://github.com/Trinea/android-common)  
+* [android-auto-scroll-view-pager](https://github.com/Trinea/android-auto-scroll-view-pager)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/Trinea)
+[![](art/weibo.png)](http://weibo.com/trinea)
+[![](art/web.png)](http://www.trinea.cn/)
+
+![](http://codekk.com/images/weixin-trinea-256.jpeg)
+
+### [魏祝林](http://blog.csdn.net/android_tutor)
+
+勃起哥，以前就职于腾讯，现在出来自己创业了，他的人生阅历相当丰富，具体可以看    [一个IT老兵六年的折腾之路！](http://blog.csdn.net/android_tutor/article/details/47204729)
+技术博客已经很久没有更新了，不过我们的人生不仅仅只有技术啊
+
+**contact**:  
+[![](art/web.png)](http://blog.csdn.net/android_tutor)
+
+### [halzhang](https://github.com/halzhang)
+![](https://avatars1.githubusercontent.com/u/542297?v=3&s=188)
+
+写了一个[StartupNews](http://news.dbanotes.net/)的android客户端。
+
+**masterpiece**:  
+* [StartupNews](https://github.com/halzhang/StartupNews)
+* [Android-VerticalProgressBar](https://github.com/halzhang/Android-VerticalProgressBar)  
+* [AlphabetIndexerListView](https://github.com/halzhang/AlphabetIndexerListView)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/halzhang)
+[![](art/weibo.png)](http://weibo.com/halzhang)
+[![](art/web.png)](http://www.cnblogs.com/halzhang)
+
+
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
