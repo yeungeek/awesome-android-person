@@ -8,14 +8,14 @@
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/yeungeek/awesome-android-libraries?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)  
 
 排名不分先后
-##ORG
+## ORG
 * [Google](#google)
 * [Facebook](#facebook)
 * [Square](#square)
 * [Yalantis](#yalantis)
 * [Alibaba](#alibaba)
 
-##COM
+## COM
 * [Jake Wharton](#jake-wharton)
 * [Chris Banes](#chris-banes)
 * [Mark Murphy](#mark-murphy)
@@ -31,13 +31,14 @@
 * [Daniel Lew](#daniel-lew)
 * [Vladislav Bauer](#vladislav-bauer)
 
-##CN
+## CN
 * [罗升阳](#罗升阳)
 * [邓凡平](#邓凡平)
 * [Trinea](#trinea)
 * [魏祝林](#魏祝林)
 * [halzhang](#halzhang)
 * [daimajia](#daimajia)
+* [张鸿洋](#张鸿洋)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
@@ -431,10 +432,29 @@ Trinea大神，目前就职于快的，专注于android性能优化和开源项�
 ...
 
 **contact**:  
+[![](art/google_plus.png)](http://google.com/+daimajia)
 [![](art/github.png)](https://github.com/daimajia)
 [![](art/weibo.png)](http://weibo.com/daimajia)
 [![](art/xitu.png)](https://xitu.io/2)
 [![](art/web.png)](http://blog.daimajia.com/)
+
+### [张鸿洋](https://github.com/hongyangAndroid)
+![](http://avatar.csdn.net/F/F/5/1_lmj623565791.jpg)
+
+CSDN认证专家，2014博客之星.鸿洋老师精通Java企业级开发，对基于Java的Web框架有一定的认知。
+而且还在csdn上撰写了"Android 精彩案例"一系列博文。
+
+**masterpiece**:  
+* [android-percent-support-extend](https://github.com/hongyangAndroid/android-percent-support-extend)
+* [Android-CircleMenu](https://github.com/hongyangAndroid/Android-CircleMenu)
+* [Android-StickyNavLayout](https://github.com/hongyangAndroid/Android-StickyNavLayout)
+* [ColorTrackView](https://github.com/hongyangAndroid/ColorTrackView)
+
+**contact**:  
+[![](art/github.png)](https://github.com/hongyangAndroid)
+[![](art/weibo.png)](http://weibo.com/u/3165018720)
+[![](art/web.png)](http://blog.csdn.net/lmj623565791)
+
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
@@ -443,3 +463,4 @@ Trinea大神，目前就职于快的，专注于android性能优化和开源项�
 *  [android dev cn](https://github.com/android-cn/android-dev-cn)
 *  [android dev com](https://github.com/android-cn/android-dev-com)
 *  [Android Dev Bookmarks](https://github.com/zhengxiaopeng/android-dev-bookmarks)
+* [xitu](https://xitu.io)
