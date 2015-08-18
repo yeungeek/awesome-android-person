@@ -455,6 +455,13 @@ CSDN认证专家，2014博客之星.鸿洋老师精通Java企业级开发，对�
 [![](art/weibo.png)](http://weibo.com/u/3165018720)
 [![](art/web.png)](http://blog.csdn.net/lmj623565791)
 
+### [郭霖](http://blog.csdn.net/guolin_blog)
+![](http://avatar.csdn.net/8/B/B/1_sinyu890807.jpg)
+
+也是csdn上的专家，写了很多Android的原理解析，出版了[第一行代码 Android](http://item.jd.com/11504254.html)
+
+**contact**:  
+[![](art/web.png)](http://blog.csdn.net/guolin_blog)
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
