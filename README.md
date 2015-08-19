@@ -39,6 +39,10 @@
 * [halzhang](#halzhang)
 * [daimajia](#daimajia)
 * [张鸿洋](#张鸿洋)
+* [郭霖](#郭霖)
+* [张兴业](#张兴业)
+* [闷瓜蛋子](#闷瓜蛋子)
+* [傲慢的上校](#傲慢的上校)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
@@ -462,6 +466,36 @@ CSDN认证专家，2014博客之星.鸿洋老师精通Java企业级开发，对�
 
 **contact**:  
 [![](art/web.png)](http://blog.csdn.net/guolin_blog)
+
+### [张兴业](http://blog.csdn.net/xyz_lmn)
+![](http://avatar.csdn.net/E/D/5/1_xyz_lmn.jpg)
+
+CSDN Android技术专家，在Android UI开发上有一系列的文章。
+
+**contact**:  
+[![](art/weibo.png)](http://weibo.com/xyzlmn)
+[![](art/web.png)](http://blog.csdn.net/xyz_lmn)
+
+### [闷瓜蛋子](http://www.fookwood.com/)
+
+Android程序员，目前在云OS做桌面开发。
+
+**masterpiece**:  
+* [Launcher3](https://github.com/fookwood/Launcher3)
+
+**contact**:  
+[![](art/github.png)](https://github.com/fookwood)
+[![](art/weibo.png)](http://weibo.com/fookwood)
+[![](art/web.png)](http://www.fookwood.com/)
+
+### [傲慢的上校](http://blog.csdn.net/lilu_leo)
+
+在Android源码分析上有自己独到的见解。
+
+**contact**:  
+[![](art/github.png)](https://github.com/fookwood)
+[![](art/weibo.png)](http://weibo.com/1832139851)
+[![](art/web.png)](http://blog.csdn.net/lilu_leo)
 
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
