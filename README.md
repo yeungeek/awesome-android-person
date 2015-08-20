@@ -497,6 +497,36 @@ Android程序员，目前在云OS做桌面开发。
 [![](art/weibo.png)](http://weibo.com/1832139851)
 [![](art/web.png)](http://blog.csdn.net/lilu_leo)
 
+### [任玉刚](https://github.com/singwhatiwanna)
+
+目前在百度手机卫士团队，在Android源码分析和动态加载方向上有独到的见解。
+
+**masterpiece**:  
+* [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)
+* [PinnedHeaderExpandableListView](https://github.com/singwhatiwanna/PinnedHeaderExpandableListView)  
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/singwhatiwanna)
+[![](art/weibo.png)](http://weibo.com/uc83018062)
+[![](art/web.png)](http://blog.csdn.net/singwhatiwanna)
+
+### [MrSimp1e](https://github.com/bboyfeiyu)
+![](https://avatars0.githubusercontent.com/u/1683811?v=3&s=188)
+
+目前就职于友盟，现在在Android圈非常活跃，创立了[开发技术前线](http://www.devtf.cn/)的聚合网站，为广大开发者提供了便利。
+
+**masterpiece**:  
+* [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier)
+* [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
+* [android_my_pull_refresh_view](https://github.com/bboyfeiyu/android_my_pull_refresh_view)   
+...
+
+**contact**:  
+[![](art/github.png)](https://github.com/bboyfeiyu)
+[![](art/weibo.png)](http://weibo.com/mrsimp1e)
+[![](art/web.png)](http://www.devtf.cn/)
+
 <a href="#cn" title="返回目录" style="width:100%"><img src="https://raw.githubusercontent.com/yeungeek/awesome-android-person/master/art/ic_arrow.png" align="right"/></a>
 
 ## Reference
