@@ -43,6 +43,8 @@
 * [张兴业](#张兴业)
 * [闷瓜蛋子](#闷瓜蛋子)
 * [傲慢的上校](#傲慢的上校)
+* [任玉刚](#任玉刚)
+* [Mr.Simple](#mrsimple)
 
 ### [Google](https://github.com/google)
 ![](https://avatars0.githubusercontent.com/u/1342004?v=3&s=188)  
@@ -511,7 +513,7 @@ Android程序员，目前在云OS做桌面开发。
 [![](art/weibo.png)](http://weibo.com/uc83018062)
 [![](art/web.png)](http://blog.csdn.net/singwhatiwanna)
 
-### [MrSimp1e](https://github.com/bboyfeiyu)
+### [MrSimple](https://github.com/bboyfeiyu)
 ![](https://avatars0.githubusercontent.com/u/1683811?v=3&s=188)
 
 目前就职于友盟，现在在Android圈非常活跃，创立了[开发技术前线](http://www.devtf.cn/)的聚合网站，为广大开发者提供了便利。
@@ -519,7 +521,7 @@ Android程序员，目前在云OS做桌面开发。
 **masterpiece**:  
 * [android-tech-frontier](https://github.com/bboyfeiyu/android-tech-frontier)
 * [AndroidEventBus](https://github.com/bboyfeiyu/AndroidEventBus)
-* [android_my_pull_refresh_view](https://github.com/bboyfeiyu/android_my_pull_refresh_view)   
+* [android_my_pull_refresh_view](https://github.com/bboyfeiyu/android_my_pull_refresh_view)
 ...
 
 **contact**:  
